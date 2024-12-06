@@ -15,6 +15,6 @@ This robot can travel to a maze and follow the walls in order to find the exit p
 - Aluminum Sheet
 - DC Power Switch
 
-!(Maze_follower_robot)[robot_maze.JPG]
+![Maze_follower_robot](robot_maze.JPG)
 
-!(curcuit_schematic)[circuit_schematic.jpg]
+![curcuit_schematic](circuit_schematic.jpg)
